@@ -1,5 +1,9 @@
 
-[Source / Fuente](https://git-scm.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_pucv_ok.PNG/320px-Logo_pucv_ok.PNG">][2]
+
+[2]:https://www.pucv.cl/
+
+# [Source / Fuente](https://git-scm.com/) 
 
 a. **Control de versiones (VC)**: Se tiene una gestion de verciones; para, por ejemplo volver a una vercion anterior en caso de fallos.
 
@@ -37,3 +41,8 @@ q. **Rama / Branch**:Rama de Repo
 
 r. **Etiqueta / Tag**: Sirve para tener control entre las verciones subidas al darles nombre. Ej:v1.1.2
 
+# Tutorial de Git usado:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QGKTdL7GG24
+" target="_blank"><img src="http://img.youtube.com/vi/QGKTdL7GG24/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="180" border="3" /></a>
